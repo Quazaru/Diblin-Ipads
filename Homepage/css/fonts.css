@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Colaborate';
+    src: url(../fonts/colaborate/Colaborate-Regular.ttf) format('truetype'),
+         url(../fonts/colaborate/Colaborate-Regular.woff) format('woff'),
+         url(../fonts/colaborate/Colaborate-Regular.woff2) format('woff2');
+    font-style: normal; 
+    font-weight: normal; 
+}
